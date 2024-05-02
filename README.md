@@ -1,1 +1,1 @@
-# Aqui estão os exercicios de treinamnento de java(Calculadora e etc).
+# Aqui estão os exercicios de treinamnento de java, usando interface gráfica(Calculadora e etc).
